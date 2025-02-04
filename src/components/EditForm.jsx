@@ -92,7 +92,7 @@ const navigate = useNavigate();
             type="submit"
             className="w-full bg-blue-500 shadow-lg shadow-blue-500/50 text-white p-2 rounded"
           >
-            Create Post
+            Update Post
           </button>
         </form>
       </div>
